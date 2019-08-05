@@ -1,0 +1,2 @@
+This is fileA and it has 2 sentences.
+This is the second sentence.
